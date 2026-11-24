@@ -6,7 +6,8 @@
     "PathFindRadius": 0.25,
     "LegendaryPathFindRadius": 0,
     "MaxClimbHeight": 1.5,
-    "MaxDropHeight": 10
+    "MaxDropHeight": 10,
+    "MinWaterDepth": "None"
   },
   {
     "Name": "flightless_bird",
@@ -17,7 +18,8 @@
     "LegendaryPathFindRadius": 0,
     "MaxClimbHeight": 0,
     "MaxDropHeight": 0,
-    "MaxWaterDepth": "None"
+    "MaxWaterDepth": "None",
+    "MinWaterDepth": "None"
   },
   {
     "Name": "flight_capable",
@@ -27,7 +29,8 @@
     "LegendaryPathFindRadius": 0,
     "MaxClimbHeight": 0,
     "MaxDropHeight": 0,
-    "MaxWaterDepth": "None"
+    "MaxWaterDepth": "None",
+    "MinWaterDepth": "None"
   },
   {
     "Name": "horse",
@@ -40,7 +43,8 @@
     "PathFindRadius": 0.5,
     "LegendaryPathFindRadius": 0,
     "MaxClimbHeight": 0,
-    "MaxDropHeight": 0
+    "MaxDropHeight": 0,
+    "MinWaterDepth": "None"
   },
   {
     "Name": "simple",
@@ -51,7 +55,8 @@
     "LegendaryPathFindRadius": 0,
     "MaxClimbHeight": 0,
     "MaxDropHeight": 0,
-    "MaxWaterDepth": "None"
+    "MaxWaterDepth": "None",
+    "MinWaterDepth": "None"
   },
   {
     "Name": "snake",
@@ -64,7 +69,8 @@
     "LegendaryPathFindRadius": 0,
     "MaxClimbHeight": 0,
     "MaxDropHeight": 0,
-    "MaxWaterDepth": "None"
+    "MaxWaterDepth": "None",
+    "MinWaterDepth": "None"
   },
   {
     "Name": "standard_ped",
@@ -73,7 +79,8 @@
     "PathFindRadius": 0.25,
     "LegendaryPathFindRadius": 0,
     "MaxClimbHeight": 4,
-    "MaxDropHeight": 100
+    "MaxDropHeight": 100,
+    "MinWaterDepth": "None"
   },
   {
     "Name": "standard_quadruped",
@@ -84,7 +91,8 @@
     "LegendaryPathFindRadius": 0,
     "MaxClimbHeight": 0,
     "MaxDropHeight": 0,
-    "MaxWaterDepth": "None"
+    "MaxWaterDepth": "None",
+    "MinWaterDepth": "None"
   },
   {
     "Name": "water_only",
@@ -106,7 +114,8 @@
     "PathFindRadius": 0.25,
     "LegendaryPathFindRadius": 0,
     "MaxClimbHeight": 4,
-    "MaxDropHeight": 100
+    "MaxDropHeight": 100,
+    "MinWaterDepth": "None"
   },
   {
     "Name": null,
@@ -117,7 +126,8 @@
     "LegendaryPathFindRadius": 0,
     "MaxClimbHeight": 0,
     "MaxDropHeight": 0,
-    "MaxWaterDepth": "None"
+    "MaxWaterDepth": "None",
+    "MinWaterDepth": "None"
   },
   {
     "Name": null,
@@ -127,7 +137,8 @@
     "PathFindRadius": 0.25,
     "LegendaryPathFindRadius": 0,
     "MaxClimbHeight": 0,
-    "MaxDropHeight": 0
+    "MaxDropHeight": 0,
+    "MinWaterDepth": "None"
   },
   {
     "Name": null,
@@ -137,7 +148,8 @@
     "PathFindRadius": 0.25,
     "LegendaryPathFindRadius": 0,
     "MaxClimbHeight": 4,
-    "MaxDropHeight": 100
+    "MaxDropHeight": 100,
+    "MinWaterDepth": "None"
   },
   {
     "Name": null,
@@ -146,7 +158,8 @@
     "PathFindRadius": 0.25,
     "LegendaryPathFindRadius": 0,
     "MaxClimbHeight": 0,
-    "MaxDropHeight": 0
+    "MaxDropHeight": 0,
+    "MinWaterDepth": "None"
   },
   {
     "Name": null,
@@ -156,7 +169,8 @@
     "PathFindRadius": 0.25,
     "LegendaryPathFindRadius": 0,
     "MaxClimbHeight": 4,
-    "MaxDropHeight": 100
+    "MaxDropHeight": 100,
+    "MinWaterDepth": "None"
   },
   {
     "Name": null,
@@ -168,7 +182,8 @@
     "PathFindRadius": 1,
     "LegendaryPathFindRadius": 0,
     "MaxClimbHeight": 0,
-    "MaxDropHeight": 0
+    "MaxDropHeight": 0,
+    "MinWaterDepth": "None"
   },
   {
     "Name": null,
@@ -179,7 +194,8 @@
     "LegendaryPathFindRadius": 0,
     "MaxClimbHeight": 0,
     "MaxDropHeight": 0,
-    "MaxWaterDepth": "None"
+    "MaxWaterDepth": "None",
+    "MinWaterDepth": "None"
   },
   {
     "Name": null,
@@ -191,7 +207,8 @@
     "PathFindRadius": 0.5,
     "LegendaryPathFindRadius": 0,
     "MaxClimbHeight": 0,
-    "MaxDropHeight": 0
+    "MaxDropHeight": 0,
+    "MinWaterDepth": "None"
   },
   {
     "Name": null,
@@ -203,7 +220,8 @@
     "PathFindRadius": 0.25,
     "LegendaryPathFindRadius": 0,
     "MaxClimbHeight": 0,
-    "MaxDropHeight": 0
+    "MaxDropHeight": 0,
+    "MinWaterDepth": "None"
   },
   {
     "Name": null,
@@ -213,7 +231,8 @@
     "PathFindRadius": 0.25,
     "LegendaryPathFindRadius": 0,
     "MaxClimbHeight": 0,
-    "MaxDropHeight": 0
+    "MaxDropHeight": 0,
+    "MinWaterDepth": "None"
   },
   {
     "Name": null,
@@ -225,7 +244,8 @@
     "PathFindRadius": 0.25,
     "LegendaryPathFindRadius": 0,
     "MaxClimbHeight": 0,
-    "MaxDropHeight": 0
+    "MaxDropHeight": 0,
+    "MinWaterDepth": "None"
   },
   {
     "Name": null,
@@ -237,6 +257,7 @@
     "PathFindRadius": 0.25,
     "LegendaryPathFindRadius": 0,
     "MaxClimbHeight": 0,
-    "MaxDropHeight": 0
+    "MaxDropHeight": 0,
+    "MinWaterDepth": "None"
   }
 ]

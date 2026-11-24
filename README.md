@@ -1,6 +1,6 @@
 # GTA VI Data Dumps
 
-<img src="https://img.shields.io/badge/game%20build-1.0.2.1-1f6feb" alt="Game build 1.0.2.1"> <a href="#data-dumps"><img src="https://img.shields.io/badge/data%20dumps-18-2ea44f" alt="18 data dumps"></a> <a href="#data-dumps"><img src="https://img.shields.io/badge/records-285%2C677-8250df" alt="285,677 records"></a> <a href="https://github.com/DurtyFree/gta-vi-data-dumps/commits"><img src="https://img.shields.io/github/last-commit/DurtyFree/gta-vi-data-dumps?label=updated" alt="Last update"></a> <a href="https://discord.plebmasters.de"><img src="https://img.shields.io/badge/Discord-Pleb%20Masters-5865F2?logo=discord&logoColor=white" alt="Pleb Masters Discord"></a>
+<img src="https://img.shields.io/badge/game%20build-1.0.2.1-1f6feb" alt="Game build 1.0.2.1"> <a href="#data-dumps"><img src="https://img.shields.io/badge/data%20dumps-18-2ea44f" alt="18 data dumps"></a> <a href="#data-dumps"><img src="https://img.shields.io/badge/records-285%2C693-8250df" alt="285,693 records"></a> <a href="https://github.com/DurtyFree/gta-vi-data-dumps/commits"><img src="https://img.shields.io/github/last-commit/DurtyFree/gta-vi-data-dumps?label=updated" alt="Last update"></a> <a href="https://discord.plebmasters.de"><img src="https://img.shields.io/badge/Discord-Pleb%20Masters-5865F2?logo=discord&logoColor=white" alt="Pleb Masters Discord"></a>
 
 Dodo's Rising, and so is everything the community will build on top of Leonida.
 
@@ -26,33 +26,33 @@ Looking for another game? See the [GTA V data dumps](https://github.com/DurtyFre
 
 | Dump | File | Count | Good for |
 | --- | --- | --- | --- |
-| **Weapons** | [weapons.json](weapons.json) | 112 weapons, 26 with a known name | Every weapon: weapon type, caliber, clip sizes, ranges, forces, reload times, time between shots, head shot distances, camera and recoil shake, AI attack modes, accuracy profile and pickup |
-| **Ammo** | [ammo.json](ammo.json) | 79 ammo types, 5 with a known name | Bullets and other ammo: penetration, life time, launch speed, ricochet tolerance, gravity factor, explosion tags, light settings and seeking and sticking tuning |
+| **Weapons** | [weapons.json](weapons.json) | 112 weapons | Every weapon: weapon type, caliber, clip sizes, ranges, forces, reload times, time between shots, head shot distances, camera and recoil shake, AI attack modes, accuracy profile and pickup |
+| **Ammo** | [ammo.json](ammo.json) | 79 ammo types, 13 with a known name | Bullets and other ammo: penetration, life time, launch speed, ricochet tolerance, gravity factor, explosion tags, light settings and seeking and sticking tuning |
 | **Weapon accuracy profiles** | [weaponAccuracies.json](weaponAccuracies.json) | 100 accuracy profiles, names not known yet | Accuracy profiles that weapons share: spread, accuracy fall-off, recoil and run-and-gun modifiers |
 | **Weapon damage modifiers** | [weaponDamageModifiers.json](weaponDamageModifiers.json) | 116 damage modifier sets, names not known yet | Damage multiplier sets: head shot, limb, light armour, vehicle, player against AI and critical hit chance |
-| **Pickups** | [pickups.json](pickups.json) | 768 pickups, names not known yet | Every pickup: collection radius, regeneration time, scale, attachment offset and rotation and what happens in a car or when shot |
+| **Pickups** | [pickups.json](pickups.json) | 768 pickups, 14 with a known name | Every pickup: collection radius, regeneration time, scale, attachment offset and rotation and what happens in a car or when shot |
 
 ### 🧍 Peds and animals
 
 | Dump | File | Count | Good for |
 | --- | --- | --- | --- |
-| **Peds** | [peds.json](peds.json) | 2,714 peds, 261 with a known name | Every ped: physical model, size, scale, age group, affluence, spawn preference and range, capsule, navigation capabilities, motion task data set, brawling style, facial clip set group and viseme clip set |
-| **Ped capsules** | [pedCapsules.json](pedCapsules.json) | 108 capsules, 46 with a known name | The collision capsules of humans, quadrupeds, birds and fish: radius, mass, probe radius, ground offset, flatten limits and ragdoll switches |
+| **Peds** | [peds.json](peds.json) | 2,714 peds, 331 with a known name | Every ped: physical model, size, scale, age group, affluence, spawn preference and range, capsule, navigation capabilities, motion task data set, brawling style, facial clip set group and viseme clip set |
+| **Ped capsules** | [pedCapsules.json](pedCapsules.json) | 108 capsules, 57 with a known name | The collision capsules of humans, quadrupeds, birds and fish: radius, mass, probe radius, ground offset, flatten limits and ragdoll switches |
 | **Ped navigation capabilities** | [pedNavCapabilities.json](pedNavCapabilities.json) | 22 capability sets, 9 with a known name | What a ped type can path over: climb height, drop height, path-find radius and capability flags |
-| **Animal tunings** | [animalTunings.json](animalTunings.json) | 211 animal tunings, names not known yet | Behaviour per animal: combat, fleeing, flocking, fear range and threat response |
+| **Animal tunings** | [animalTunings.json](animalTunings.json) | 211 animal tunings, 3 with a known name | Behaviour per animal: combat, fleeing, flocking, fear range and threat response |
 
 ### 🌍 World
 
 | Dump | File | Count | Good for |
 | --- | --- | --- | --- |
-| **Explosion types** | [explosions.json](explosions.json) | 68 explosion types, 35 with a known name | Every explosion tag: damage, radius, force, camera shake and behaviour switches |
+| **Explosion types** | [explosions.json](explosions.json) | 68 explosion types, 41 with a known name | Every explosion tag: damage, radius, force, camera shake and behaviour switches |
 | **Door tunings** | [doorTunings.json](doorTunings.json) | 21 door tunings | The named door presets: auto-open, locking, breaking and mass |
 
 ### 📚 Names and reference
 
 | Dump | File | Count | Good for |
 | --- | --- | --- | --- |
-| **Enums and flags** | [enums.json](enums.json) | 100 enums, 3,036 values | Every named enum and flag set with its value names and numbers, as the records above use them |
+| **Enums and flags** | [enums.json](enums.json) | 116 enums, 3,306 values | Every named enum and flag set with its value names and numbers, as the records above use them |
 | **Animation dictionaries** | [animDicts.json](animDicts.json) | 70,119 animation dictionaries | The names of the animation (clip) dictionaries |
 | **Drawables** | [DrawableList.ini](DrawableList.ini) | 180,121 models | The names of the static models: props, buildings, map pieces, clothing and weapon parts |
 | **Fragments** | [FragmentList.ini](FragmentList.ini) | 30,526 models | The names of the physical and breakable models: vehicles and their parts, ped bodies, physical props |

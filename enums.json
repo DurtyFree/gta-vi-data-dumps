@@ -89,10 +89,20 @@
       "Value": 3
     }
   ],
+  "AnimControlType": [
+    {
+      "Name": "BoneRotation",
+      "Value": 1
+    }
+  ],
   "BreakoutSpeed": [
     {
       "Name": "None",
       "Value": 0
+    },
+    {
+      "Name": "Quick",
+      "Value": 499655806
     },
     {
       "Name": "Urgent",
@@ -105,6 +115,118 @@
     {
       "Name": "Slow",
       "Value": 3303937151
+    }
+  ],
+  "CAIConditionCheckMemories__CheckMode": [
+    {
+      "Name": "AllInOrder",
+      "Value": 0
+    },
+    {
+      "Name": "All",
+      "Value": 1
+    },
+    {
+      "Name": "Any",
+      "Value": 2
+    }
+  ],
+  "CAIConditionTime__Time": [
+    {
+      "Name": "H0",
+      "Value": 0
+    },
+    {
+      "Name": "H1",
+      "Value": 1
+    },
+    {
+      "Name": "H2",
+      "Value": 2
+    },
+    {
+      "Name": "H3",
+      "Value": 3
+    },
+    {
+      "Name": "H4",
+      "Value": 4
+    },
+    {
+      "Name": "H5",
+      "Value": 5
+    },
+    {
+      "Name": "H6",
+      "Value": 6
+    },
+    {
+      "Name": "H7",
+      "Value": 7
+    },
+    {
+      "Name": "H8",
+      "Value": 8
+    },
+    {
+      "Name": "H9",
+      "Value": 9
+    },
+    {
+      "Name": "H10",
+      "Value": 10
+    },
+    {
+      "Name": "H11",
+      "Value": 11
+    },
+    {
+      "Name": "H12",
+      "Value": 12
+    },
+    {
+      "Name": "H13",
+      "Value": 13
+    },
+    {
+      "Name": "H14",
+      "Value": 14
+    },
+    {
+      "Name": "H15",
+      "Value": 15
+    },
+    {
+      "Name": "H16",
+      "Value": 16
+    },
+    {
+      "Name": "H17",
+      "Value": 17
+    },
+    {
+      "Name": "H18",
+      "Value": 18
+    },
+    {
+      "Name": "H19",
+      "Value": 19
+    },
+    {
+      "Name": "H20",
+      "Value": 20
+    },
+    {
+      "Name": "H21",
+      "Value": 21
+    },
+    {
+      "Name": "H22",
+      "Value": 22
+    },
+    {
+      "Name": "H23",
+      "Value": 23
     }
   ],
   "CCarryingFlags__Flags": [
@@ -227,6 +349,28 @@
     {
       "Name": "LIGHTSHAFT_VOLUMETYPE_CYLINDER",
       "Value": 1
+    }
+  ],
+  "CPedDamageInfo__eSkinPenetrationLevel": [
+    {
+      "Name": "SPL_INVALID",
+      "Value": -1
+    },
+    {
+      "Name": "SPL_NONE",
+      "Value": 0
+    },
+    {
+      "Name": "SPL_LOW",
+      "Value": 1
+    },
+    {
+      "Name": "SPL_MED",
+      "Value": 2
+    },
+    {
+      "Name": "SPL_HIGH",
+      "Value": 3
     }
   ],
   "CSE_Weapon__ComponentIds": [
@@ -475,6 +619,10 @@
     {
       "Name": "InVehicle",
       "Value": 94
+    },
+    {
+      "Name": "AllowRespawn",
+      "Value": 95
     },
     {
       "Name": "LowPriority",
@@ -1709,6 +1857,14 @@
       "Value": 213
     },
     {
+      "Name": "Sports",
+      "Value": 213
+    },
+    {
+      "Name": "Sports",
+      "Value": 214
+    },
+    {
       "Name": "Molotov",
       "Value": 215
     },
@@ -1717,16 +1873,56 @@
       "Value": 216
     },
     {
+      "Name": "Knife",
+      "Value": 217
+    },
+    {
+      "Name": "Sports",
+      "Value": 217
+    },
+    {
+      "Name": "Knife",
+      "Value": 218
+    },
+    {
       "Name": "Melee",
       "Value": 220
+    },
+    {
+      "Name": "Knife",
+      "Value": 221
     },
     {
       "Name": "Melee",
       "Value": 221
     },
     {
+      "Name": "KitItem",
+      "Value": 223
+    },
+    {
+      "Name": "KitItem",
+      "Value": 224
+    },
+    {
+      "Name": "Legacy",
+      "Value": 224
+    },
+    {
       "Name": "Melee",
       "Value": 224
+    },
+    {
+      "Name": "Legacy",
+      "Value": 225
+    },
+    {
+      "Name": "KitItem",
+      "Value": 227
+    },
+    {
+      "Name": "Legacy",
+      "Value": 228
     },
     {
       "Name": "Hammer",
@@ -1749,6 +1945,20 @@
     {
       "Name": "Throw",
       "Value": 3
+    }
+  ],
+  "DecalEventDirection": [
+    {
+      "Name": "X",
+      "Value": 0
+    },
+    {
+      "Name": "Y",
+      "Value": 1
+    },
+    {
+      "Name": "Z",
+      "Value": 2
     }
   ],
   "DefaultSpawnPreference": [
@@ -1839,12 +2049,32 @@
       "Value": 0
     },
     {
+      "Name": "Nervous",
+      "Value": 2
+    },
+    {
+      "Name": "Scared",
+      "Value": 3
+    },
+    {
+      "Name": "Panic",
+      "Value": 4
+    },
+    {
       "Name": "Happy",
       "Value": 10
     },
     {
       "Name": "Tired",
       "Value": 13
+    },
+    {
+      "Name": "Relaxed",
+      "Value": 15
+    },
+    {
+      "Name": "WTF",
+      "Value": 18
     },
     {
       "Name": "Combat",
@@ -1858,6 +2088,10 @@
     }
   ],
   "IntimidationType": [
+    {
+      "Name": "eIT_Invalid",
+      "Value": -1
+    },
     {
       "Name": "eIT_OnAss",
       "Value": 0
@@ -2009,7 +2243,49 @@
       "Value": 7
     }
   ],
+  "MetaPedAssetCollisionData__eType": [
+    {
+      "Name": "HAT",
+      "Value": 0
+    },
+    {
+      "Name": "SADDLE",
+      "Value": 1
+    },
+    {
+      "Name": "HORN",
+      "Value": 2
+    },
+    {
+      "Name": "SATCHEL",
+      "Value": 3
+    },
+    {
+      "Name": "RAGDOLL",
+      "Value": 4
+    },
+    {
+      "Name": "INTERACTION",
+      "Value": 5
+    },
+    {
+      "Name": "MISC",
+      "Value": 6
+    },
+    {
+      "Name": "INVALID",
+      "Value": 7
+    }
+  ],
   "NavCapabilityFlags": [
+    {
+      "Name": "CanClimb",
+      "Value": 0
+    },
+    {
+      "Name": "CanDrop",
+      "Value": 1
+    },
     {
       "Name": "DoesNotDrown",
       "Value": 5
@@ -2101,6 +2377,10 @@
     {
       "Name": "SAT_EAGLE_EYE",
       "Value": 7
+    },
+    {
+      "Name": "SAT_MAX",
+      "Value": 10
     }
   ],
   "VegModifierType": [
@@ -2193,6 +2473,10 @@
   ],
   "WeaponAnimations__eSwapWeaponType": [
     {
+      "Name": "FuelCan",
+      "Value": 23065783
+    },
+    {
       "Name": "Torch",
       "Value": 146039221
     },
@@ -2211,6 +2495,10 @@
     {
       "Name": "Melee",
       "Value": 999229322
+    },
+    {
+      "Name": "RPG",
+      "Value": 1443084780
     },
     {
       "Name": "Lantern",
@@ -2681,6 +2969,18 @@
     {
       "Name": "COVFLAG_DYNAMIC_NAVMESH_POINT",
       "Value": 39
+    },
+    {
+      "Name": "COVFLAG_FAKE_COVER",
+      "Value": 47
+    },
+    {
+      "Name": "COVFLAG_NAVMESH_EDGE",
+      "Value": 48
+    },
+    {
+      "Name": "COVFLAG_NO_CORNER",
+      "Value": 50
     }
   ],
   "eCoverHeight": [
@@ -2987,8 +3287,32 @@
       "Value": 34
     },
     {
+      "Name": "EXP_TAG_DIR_GAS_CANISTER",
+      "Value": 36
+    },
+    {
+      "Name": "EXP_TAG_FLARE",
+      "Value": 37
+    },
+    {
+      "Name": "EXP_TAG_ROCKET",
+      "Value": 38
+    },
+    {
       "Name": "EXP_TAG_TANKER",
       "Value": 39
+    },
+    {
+      "Name": "EXP_TAG_TRUCK",
+      "Value": 45
+    },
+    {
+      "Name": "EXP_TAG_EXTINGUISHER_WATER",
+      "Value": 48
+    },
+    {
+      "Name": "EXP_TAG_HELI",
+      "Value": 56
     }
   ],
   "eExtraIncludes": [
@@ -3043,6 +3367,12 @@
     {
       "Name": "EXTRA_13",
       "Value": 13
+    }
+  ],
+  "eGameOwnershipConfigFlags": [
+    {
+      "Name": "CGAME_OWNERSHIP_CONFIG_FLAG_IsStolen",
+      "Value": 3
     }
   ],
   "eIkControlFlags": [
@@ -3173,6 +3503,56 @@
     {
       "Name": "MPT_ANIMAL",
       "Value": 3
+    }
+  ],
+  "eMonth": [
+    {
+      "Name": "January",
+      "Value": 0
+    },
+    {
+      "Name": "February",
+      "Value": 1
+    },
+    {
+      "Name": "March",
+      "Value": 2
+    },
+    {
+      "Name": "April",
+      "Value": 3
+    },
+    {
+      "Name": "May",
+      "Value": 4
+    },
+    {
+      "Name": "June",
+      "Value": 5
+    },
+    {
+      "Name": "July",
+      "Value": 6
+    },
+    {
+      "Name": "August",
+      "Value": 7
+    },
+    {
+      "Name": "September",
+      "Value": 8
+    },
+    {
+      "Name": "October",
+      "Value": 9
+    },
+    {
+      "Name": "November",
+      "Value": 10
+    },
+    {
+      "Name": "December",
+      "Value": 11
     }
   ],
   "eOptionalScenarioFlags": [
@@ -4305,8 +4685,46 @@
       "Value": 0
     },
     {
+      "Name": "POLICE",
+      "Value": 1
+    },
+    {
+      "Name": "AGGRESSIVE",
+      "Value": 13
+    },
+    {
+      "Name": "GUARDIA",
+      "Value": 18
+    },
+    {
+      "Name": "M7",
+      "Value": 19
+    },
+    {
       "Name": "CRIMINAL",
       "Value": 22
+    }
+  ],
+  "ePlayerActionTriggerType": [
+    {
+      "Name": "NoTrigger",
+      "Value": 0
+    },
+    {
+      "Name": "Press",
+      "Value": 1
+    },
+    {
+      "Name": "Hold",
+      "Value": 3
+    },
+    {
+      "Name": "Release",
+      "Value": 4
+    },
+    {
+      "Name": "Sequence",
+      "Value": 5
     }
   ],
   "ePlayerResetFlags": [
@@ -4389,6 +4807,32 @@
       "Value": 4
     }
   ],
+  "eScenarioCameraFramingType": [
+    {
+      "Name": "CameraFraming_None",
+      "Value": -1
+    },
+    {
+      "Name": "CameraFraming_Crouched",
+      "Value": 0
+    },
+    {
+      "Name": "CameraFraming_Prone",
+      "Value": 1
+    },
+    {
+      "Name": "CameraFraming_Seated",
+      "Value": 2
+    },
+    {
+      "Name": "CameraFraming_Camp",
+      "Value": 3
+    },
+    {
+      "Name": "CameraFraming_Auto",
+      "Value": 5
+    }
+  ],
   "eScenarioExit": [
     {
       "Name": "ScenarioExit_Invalid",
@@ -4427,6 +4871,22 @@
     {
       "Name": "kScenarioImportanceVeryHigh",
       "Value": 3
+    }
+  ],
+  "eSeatType": [
+    {
+      "Name": "TargetSeat",
+      "Value": 1
+    },
+    {
+      "Name": "CurrentSeat",
+      "Value": 2
+    }
+  ],
+  "eSetPedDrunk": [
+    {
+      "Name": "SPD_UseScenarioPointFlag",
+      "Value": 0
     }
   ],
   "eSexinessFlags": [
@@ -4493,11 +4953,19 @@
       "Value": 11
     },
     {
+      "Name": "MONEY",
+      "Value": 14
+    },
+    {
       "Name": "LABEL",
       "Value": 16
     }
   ],
   "eStatsDescFlags": [
+    {
+      "Name": "BlockReset",
+      "Value": 4
+    },
     {
       "Name": "PreventSaving",
       "Value": 9
@@ -4587,6 +5055,10 @@
     {
       "Name": "TAAF_SKIP_IF_BLOCKED_BY_HIGHER_PRIORITY_TASK",
       "Value": 7
+    },
+    {
+      "Name": "TAAF_VEHICLE_MOTION",
+      "Value": 8
     },
     {
       "Name": "TAAF_DONT_SUPPRESS_LOCO_DURING_TASK_BLEND",
@@ -4735,6 +5207,10 @@
     {
       "Name": "VC_INDUSTRIAL_VEHICLE",
       "Value": 28
+    },
+    {
+      "Name": "VC_PICKUP",
+      "Value": 29
     }
   ],
   "eVehiclePlateType": [
@@ -4939,6 +5415,16 @@
       "Value": 2
     }
   ],
+  "fwAnimSceneAttachmentEventData__eAction": [
+    {
+      "Name": "kAttach",
+      "Value": 0
+    },
+    {
+      "Name": "kDetach",
+      "Value": 1
+    }
+  ],
   "rage__BlipLayer": [
     {
       "Name": "InvalidLayer",
@@ -5093,6 +5579,14 @@
       "Value": 1
     },
     {
+      "Name": "INPUT_PREV_CAMERA",
+      "Value": 2
+    },
+    {
+      "Name": "INPUT_SWITCH_CAMERA",
+      "Value": 3
+    },
+    {
       "Name": "INPUT_LOOK_LR",
       "Value": 6
     },
@@ -5209,8 +5703,20 @@
       "Value": 40
     },
     {
+      "Name": "INPUT_SWITCH_CHARACTER",
+      "Value": 41
+    },
+    {
       "Name": "INPUT_MULTIPLAYER_INFO",
       "Value": 45
+    },
+    {
+      "Name": "INPUT_VIEWFINDER_ENTER",
+      "Value": 46
+    },
+    {
+      "Name": "INPUT_VIEWFINDER_TAKE_PHOTO",
+      "Value": 47
     },
     {
       "Name": "INPUT_SPRINT",
@@ -5402,6 +5908,10 @@
     },
     {
       "Name": "INPUT_COVER",
+      "Value": 87
+    },
+    {
+      "Name": "INPUT_COVER_AIM",
       "Value": 87
     },
     {
@@ -5797,6 +6307,10 @@
       "Value": 164
     },
     {
+      "Name": "INPUT_VEH_RELOAD",
+      "Value": 164
+    },
+    {
       "Name": "INPUT_VEH_ACCELERATE",
       "Value": 165
     },
@@ -5822,6 +6336,10 @@
     },
     {
       "Name": "INPUT_VEH_HEADLIGHT",
+      "Value": 168
+    },
+    {
+      "Name": "INPUT_VEH_RELOAD",
       "Value": 168
     },
     {
@@ -5997,6 +6515,10 @@
       "Value": 196
     },
     {
+      "Name": "INPUT_VEH_TRANSITION",
+      "Value": 196
+    },
+    {
       "Name": "INPUT_VEH_ROOF",
       "Value": 197
     },
@@ -6025,12 +6547,36 @@
       "Value": 201
     },
     {
+      "Name": "INPUT_VEH_TRANSITION",
+      "Value": 202
+    },
+    {
       "Name": "INPUT_VEH_DROP_PROJECTILE",
       "Value": 204
     },
     {
       "Name": "INPUT_VEH_MOUSE_CONTROL_OVERRIDE",
       "Value": 205
+    },
+    {
+      "Name": "INPUT_VEHICLE_MELEE",
+      "Value": 208
+    },
+    {
+      "Name": "INPUT_VEH_DETACH",
+      "Value": 209
+    },
+    {
+      "Name": "INPUT_VEH_RAPPEL",
+      "Value": 213
+    },
+    {
+      "Name": "INPUT_VEHICLE_MELEE",
+      "Value": 217
+    },
+    {
+      "Name": "INPUT_VEH_DETACH",
+      "Value": 218
     },
     {
       "Name": "INPUT_VEH_FLY_ROLL_LR",
@@ -6042,6 +6588,10 @@
     },
     {
       "Name": "INPUT_VEH_FLY_ROLL_RIGHT_ONLY",
+      "Value": 220
+    },
+    {
+      "Name": "INPUT_VEH_RAPPEL",
       "Value": 220
     },
     {
@@ -6633,6 +7183,10 @@
       "Value": 347
     },
     {
+      "Name": "INPUT_PARACHUTE_ATTACK",
+      "Value": 348
+    },
+    {
       "Name": "INPUT_PARACHUTE_BRAKE_LEFT",
       "Value": 348
     },
@@ -6647,6 +7201,10 @@
     {
       "Name": "INPUT_PARACHUTE_PRECISION_LANDING",
       "Value": 351
+    },
+    {
+      "Name": "INPUT_PARACHUTE_ATTACK",
+      "Value": 353
     },
     {
       "Name": "INPUT_MAP",
@@ -6753,7 +7311,15 @@
       "Value": 376
     },
     {
+      "Name": "INPUT_SHOP_MENU_LEFT",
+      "Value": 376
+    },
+    {
       "Name": "INPUT_SELECT_QUICKSELECT_DUALWIELD",
+      "Value": 377
+    },
+    {
+      "Name": "INPUT_SHOP_MENU_RIGHT",
       "Value": 377
     },
     {
@@ -6761,7 +7327,15 @@
       "Value": 378
     },
     {
+      "Name": "INPUT_SHOP_MENU_STICK_LEFT",
+      "Value": 378
+    },
+    {
       "Name": "INPUT_SELECT_QUICKSELECT_UNARMED",
+      "Value": 379
+    },
+    {
+      "Name": "INPUT_SHOP_MENU_STICK_RIGHT",
       "Value": 379
     },
     {
@@ -6851,6 +7425,10 @@
     {
       "Name": "INPUT_FRONTEND_SCROLL_AXIS_X",
       "Value": 390
+    },
+    {
+      "Name": "INPUT_CELLPHONE_ZOOM",
+      "Value": 391
     },
     {
       "Name": "INPUT_FRONTEND_SCROLL_AXIS_Y",
@@ -7105,6 +7683,10 @@
       "Value": 422
     },
     {
+      "Name": "INPUT_FRONTEND_MAP_ROTATE_UD",
+      "Value": 423
+    },
+    {
       "Name": "INPUT_FRONTEND_RT",
       "Value": 423
     },
@@ -7257,6 +7839,10 @@
       "Value": 442
     },
     {
+      "Name": "INPUT_FRONTEND_MAP_ROTATE_UD",
+      "Value": 443
+    },
+    {
       "Name": "INPUT_GAME_MENU_RIGHT_STICK_UP",
       "Value": 443
     },
@@ -7333,24 +7919,52 @@
       "Value": 453
     },
     {
+      "Name": "INPUT_GAME_MENU_TAB_LEFT_ALT",
+      "Value": 453
+    },
+    {
       "Name": "INPUT_GAME_MENU_TAB_RIGHT",
       "Value": 454
+    },
+    {
+      "Name": "INPUT_GAME_MENU_TAB_RIGHT_ALT",
+      "Value": 454
+    },
+    {
+      "Name": "INPUT_GAME_MENU_SELECT",
+      "Value": 455
     },
     {
       "Name": "INPUT_GAME_MENU_TAB_LEFT_SECONDARY",
       "Value": 455
     },
     {
+      "Name": "INPUT_GAME_MENU_INCREASE_AMOUNT",
+      "Value": 456
+    },
+    {
       "Name": "INPUT_GAME_MENU_TAB_RIGHT_SECONDARY",
       "Value": 456
+    },
+    {
+      "Name": "INPUT_GAME_MENU_DECREASE_AMOUNT",
+      "Value": 457
     },
     {
       "Name": "INPUT_GAME_MENU_SCROLL_FORWARD",
       "Value": 457
     },
     {
+      "Name": "INPUT_GAME_MENU_INCREASE_SLIDER",
+      "Value": 458
+    },
+    {
       "Name": "INPUT_GAME_MENU_SCROLL_BACKWARD",
       "Value": 458
+    },
+    {
+      "Name": "INPUT_GAME_MENU_DECREASE_SLIDER",
+      "Value": 459
     },
     {
       "Name": "INPUT_GAME_MENU_STICK_UP",
@@ -7477,28 +8091,56 @@
       "Value": 476
     },
     {
+      "Name": "INPUT_GAME_MENU_TAB_LEFT_ALT",
+      "Value": 477
+    },
+    {
       "Name": "INPUT_REPLAY_REWIND",
       "Value": 477
+    },
+    {
+      "Name": "INPUT_GAME_MENU_TAB_RIGHT_ALT",
+      "Value": 478
     },
     {
       "Name": "INPUT_REPLAY_FFWD",
       "Value": 478
     },
     {
+      "Name": "INPUT_GAME_MENU_SELECT",
+      "Value": 479
+    },
+    {
       "Name": "INPUT_REPLAY_NEWMARKER",
       "Value": 479
+    },
+    {
+      "Name": "INPUT_GAME_MENU_INCREASE_AMOUNT",
+      "Value": 480
     },
     {
       "Name": "INPUT_REPLAY_RECORD",
       "Value": 480
     },
     {
+      "Name": "INPUT_GAME_MENU_DECREASE_AMOUNT",
+      "Value": 481
+    },
+    {
       "Name": "INPUT_REPLAY_SCREENSHOT",
       "Value": 481
     },
     {
+      "Name": "INPUT_GAME_MENU_INCREASE_SLIDER",
+      "Value": 482
+    },
+    {
       "Name": "INPUT_REPLAY_HIDEHUD",
       "Value": 482
+    },
+    {
+      "Name": "INPUT_GAME_MENU_DECREASE_SLIDER",
+      "Value": 483
     },
     {
       "Name": "INPUT_REPLAY_STARTPOINT",
@@ -7769,36 +8411,72 @@
       "Value": 516
     },
     {
+      "Name": "INPUT_MAP_MENU_ACCEPT",
+      "Value": 517
+    },
+    {
       "Name": "INPUT_REPLAY_START_STOP_RECORDING",
       "Value": 517
+    },
+    {
+      "Name": "INPUT_MAP_MENU_CANCEL",
+      "Value": 518
     },
     {
       "Name": "INPUT_REPLAY_START_STOP_RECORDING_SECONDARY",
       "Value": 518
     },
     {
+      "Name": "INPUT_MAP_MENU_OPTION",
+      "Value": 519
+    },
+    {
       "Name": "INPUT_REPLAY_MARKER_DELETE",
       "Value": 519
+    },
+    {
+      "Name": "INPUT_MAP_MENU_EXTRA_OPTION",
+      "Value": 520
     },
     {
       "Name": "INPUT_REPLAY_CLIP_DELETE",
       "Value": 520
     },
     {
+      "Name": "INPUT_MAP_MENU_LEFT",
+      "Value": 521
+    },
+    {
       "Name": "INPUT_REPLAY_PAUSE",
       "Value": 521
+    },
+    {
+      "Name": "INPUT_MAP_MENU_RIGHT",
+      "Value": 522
     },
     {
       "Name": "INPUT_REPLAY_REWIND",
       "Value": 522
     },
     {
+      "Name": "INPUT_MAP_MENU_LS",
+      "Value": 523
+    },
+    {
       "Name": "INPUT_REPLAY_FFWD",
       "Value": 523
     },
     {
+      "Name": "INPUT_MAP_MENU_RS",
+      "Value": 524
+    },
+    {
       "Name": "INPUT_REPLAY_NEWMARKER",
       "Value": 524
+    },
+    {
+      "Name": "INPUT_MAP_MENU_SELECT",
+      "Value": 525
     },
     {
       "Name": "INPUT_REPLAY_RECORD",
@@ -8069,7 +8747,15 @@
       "Value": 564
     },
     {
+      "Name": "INPUT_MAP_MENU_ACCEPT",
+      "Value": 564
+    },
+    {
       "Name": "INPUT_CURSOR_ACCEPT",
+      "Value": 565
+    },
+    {
+      "Name": "INPUT_MAP_MENU_CANCEL",
       "Value": 565
     },
     {
@@ -8077,7 +8763,15 @@
       "Value": 566
     },
     {
+      "Name": "INPUT_MAP_MENU_OPTION",
+      "Value": 566
+    },
+    {
       "Name": "INPUT_CURSOR_CANCEL_DOUBLE_CLICK",
+      "Value": 567
+    },
+    {
+      "Name": "INPUT_MAP_MENU_EXTRA_OPTION",
       "Value": 567
     },
     {
@@ -8085,7 +8779,15 @@
       "Value": 568
     },
     {
+      "Name": "INPUT_MAP_MENU_LEFT",
+      "Value": 568
+    },
+    {
       "Name": "INPUT_CURSOR_X",
+      "Value": 569
+    },
+    {
+      "Name": "INPUT_MAP_MENU_RIGHT",
       "Value": 569
     },
     {
@@ -8093,11 +8795,23 @@
       "Value": 570
     },
     {
+      "Name": "INPUT_MAP_MENU_LS",
+      "Value": 570
+    },
+    {
       "Name": "INPUT_CURSOR_SCROLL_UP",
       "Value": 571
     },
     {
+      "Name": "INPUT_MAP_MENU_RS",
+      "Value": 571
+    },
+    {
       "Name": "INPUT_CURSOR_SCROLL_DOWN",
+      "Value": 572
+    },
+    {
+      "Name": "INPUT_MAP_MENU_SELECT",
       "Value": 572
     },
     {
@@ -8765,7 +9479,15 @@
       "Value": 670
     },
     {
+      "Name": "INPUT_FEED_MESSAGE_ACCEPT",
+      "Value": 670
+    },
+    {
       "Name": "INPUT_CREATOR_RAISE",
+      "Value": 671
+    },
+    {
+      "Name": "INPUT_FEED_MESSAGE_BACK",
       "Value": 671
     },
     {
@@ -8773,11 +9495,23 @@
       "Value": 672
     },
     {
+      "Name": "INPUT_FEED_MESSAGE_X",
+      "Value": 672
+    },
+    {
       "Name": "INPUT_CREATOR_SEARCH",
       "Value": 673
     },
     {
+      "Name": "INPUT_FEED_MESSAGE_Y",
+      "Value": 673
+    },
+    {
       "Name": "INPUT_CREATOR_MOVE_UD",
+      "Value": 674
+    },
+    {
+      "Name": "INPUT_FEED_MESSAGE_START",
       "Value": 674
     },
     {
@@ -8797,12 +9531,20 @@
       "Value": 676
     },
     {
+      "Name": "ACTION_INTERACT",
+      "Value": 677
+    },
+    {
       "Name": "INPUT_CREATOR_LOOK_LR",
       "Value": 677
     },
     {
       "Name": "INPUT_DROP",
       "Value": 678
+    },
+    {
+      "Name": "ACTION_INTERACT_HOLD",
+      "Value": 679
     },
     {
       "Name": "INPUT_PICKUP_CARRIABLE",
@@ -8823,6 +9565,10 @@
     {
       "Name": "INPUT_MERCY_KILL",
       "Value": 683
+    },
+    {
+      "Name": "ACTION_CAMERA_ZOOM",
+      "Value": 684
     },
     {
       "Name": "INPUT_REVIVE",
@@ -8849,12 +9595,20 @@
       "Value": 689
     },
     {
+      "Name": "ACTION_INTERACT_AIM",
+      "Value": 690
+    },
+    {
       "Name": "INPUT_LOOT2",
       "Value": 690
     },
     {
       "Name": "INPUT_LOOT3",
       "Value": 691
+    },
+    {
+      "Name": "ACTION_ITEM_INTERACTION",
+      "Value": 692
     },
     {
       "Name": "INPUT_LOOT_VEHICLE",
@@ -9069,8 +9823,16 @@
       "Value": 723
     },
     {
+      "Name": "INPUT_DIVE_ASCEND",
+      "Value": 724
+    },
+    {
       "Name": "INPUT_FRONTEND_TOUCH_SWIPE_RIGHT_X",
       "Value": 724
+    },
+    {
+      "Name": "INPUT_DANCE",
+      "Value": 725
     },
     {
       "Name": "INPUT_FRONTEND_TOUCH_SWIPE_RIGHT_Y",
@@ -9111,6 +9873,10 @@
     {
       "Name": "INPUT_MULTIPLAYER_LEADERBOARD_SCROLL_UD",
       "Value": 735
+    },
+    {
+      "Name": "drequan_enter_security3",
+      "Value": 742
     },
     {
       "Name": "INPUT_MINIGAME_QUIT",
@@ -9181,7 +9947,31 @@
       "Value": 764
     },
     {
+      "Name": "INPUT_VEHICLE_RESET",
+      "Value": 765
+    },
+    {
+      "Name": "INPUT_FEED_MESSAGE_ACCEPT",
+      "Value": 769
+    },
+    {
+      "Name": "INPUT_FEED_MESSAGE_BACK",
+      "Value": 770
+    },
+    {
+      "Name": "INPUT_FEED_MESSAGE_X",
+      "Value": 771
+    },
+    {
+      "Name": "INPUT_FEED_MESSAGE_Y",
+      "Value": 772
+    },
+    {
       "Name": "INPUT_CAMERA_PUT_AWAY",
+      "Value": 773
+    },
+    {
+      "Name": "INPUT_HUD_QUICK_SELECT_RIGHT_AXIS_X",
       "Value": 773
     },
     {
@@ -9189,7 +9979,15 @@
       "Value": 774
     },
     {
+      "Name": "INPUT_HUD_QUICK_SELECT_RIGHT_AXIS_Y",
+      "Value": 774
+    },
+    {
       "Name": "INPUT_CAMERA_TAKE_PHOTO",
+      "Value": 775
+    },
+    {
+      "Name": "INPUT_HUD_QUICK_SELECT_NEXT_WHEEL",
       "Value": 775
     },
     {
@@ -9197,7 +9995,15 @@
       "Value": 776
     },
     {
+      "Name": "INPUT_HUD_QUICK_SELECT_NEXT_ITEM",
+      "Value": 776
+    },
+    {
       "Name": "INPUT_CAMERA_HANDHELD_USE",
+      "Value": 777
+    },
+    {
+      "Name": "INPUT_HUD_QUICK_SELECT_PREV_ITEM",
       "Value": 777
     },
     {
@@ -9205,7 +10011,15 @@
       "Value": 778
     },
     {
+      "Name": "INPUT_HUD_QUICK_SELECT_QUICK_USE_PRIMARY",
+      "Value": 778
+    },
+    {
       "Name": "INPUT_CAMERA_SELFIE",
+      "Value": 779
+    },
+    {
+      "Name": "INPUT_HUD_QUICK_SELECT_QUICK_USE_SECONDARY",
       "Value": 779
     },
     {
@@ -9213,7 +10027,15 @@
       "Value": 780
     },
     {
+      "Name": "INPUT_HUD_QUICK_SELECT_QUICK_USE_RDOWN",
+      "Value": 780
+    },
+    {
       "Name": "INPUT_CAMERA_POSE_NEXT",
+      "Value": 781
+    },
+    {
+      "Name": "INPUT_HUD_QUICK_SELECT_QUICK_USE_RRIGHT",
       "Value": 781
     },
     {
@@ -9221,7 +10043,15 @@
       "Value": 782
     },
     {
+      "Name": "INPUT_HUD_QUICK_SELECT_ENTER_MODIFY_MODE",
+      "Value": 782
+    },
+    {
       "Name": "INPUT_CAMERA_EXPRESSION_NEXT",
+      "Value": 783
+    },
+    {
+      "Name": "INPUT_HUD_QUICK_SELECT_EXIT_MODIFY_MODE",
       "Value": 783
     },
     {
@@ -9229,7 +10059,15 @@
       "Value": 784
     },
     {
+      "Name": "INPUT_HUD_QUICK_SELECT_DROP_TARGET",
+      "Value": 784
+    },
+    {
       "Name": "INPUT_CAMERA_ADVANCED_TAKE_PHOTO",
+      "Value": 785
+    },
+    {
+      "Name": "INPUT_HUD_QUICK_SELECT_DROP_TARGET_LOOT",
       "Value": 785
     },
     {
@@ -9237,7 +10075,15 @@
       "Value": 786
     },
     {
+      "Name": "INPUT_HUD_QUICK_SELECT_CHANGE_AMMO",
+      "Value": 786
+    },
+    {
       "Name": "INPUT_CAMERA_ADVANCED_ZOOM_OUT",
+      "Value": 787
+    },
+    {
+      "Name": "INPUT_HUD_QUICK_SELECT_TOGGLE_FLASHLIGHT",
       "Value": 787
     },
     {
@@ -9245,36 +10091,72 @@
       "Value": 788
     },
     {
+      "Name": "INPUT_HUD_QUICK_SELECT_TOGGLE_SUPPRESSOR",
+      "Value": 788
+    },
+    {
       "Name": "INPUT_PC_FREE_LOOK",
       "Value": 789
+    },
+    {
+      "Name": "INPUT_HUD_QUICK_SELECT_STOW_TARGET",
+      "Value": 790
     },
     {
       "Name": "INPUT_PHOTO_MODE",
       "Value": 790
     },
     {
+      "Name": "INPUT_HUD_QUICK_SELECT_TRAY_LEFT",
+      "Value": 791
+    },
+    {
       "Name": "INPUT_PHOTO_MODE_PC",
       "Value": 791
+    },
+    {
+      "Name": "INPUT_HUD_QUICK_SELECT_TRAY_RIGHT",
+      "Value": 792
     },
     {
       "Name": "INPUT_PHOTO_MODE_CHANGE_CAMERA",
       "Value": 792
     },
     {
+      "Name": "INPUT_HUD_QUICK_SELECT_STICK_LEFT",
+      "Value": 793
+    },
+    {
       "Name": "INPUT_PHOTO_MODE_MOVE_LR",
       "Value": 793
+    },
+    {
+      "Name": "INPUT_HUD_QUICK_SELECT_STICK_RIGHT",
+      "Value": 794
     },
     {
       "Name": "INPUT_PHOTO_MODE_MOVE_LEFT_ONLY",
       "Value": 794
     },
     {
+      "Name": "INPUT_HUD_QUICK_SELECT_STICK_UP",
+      "Value": 795
+    },
+    {
       "Name": "INPUT_PHOTO_MODE_MOVE_RIGHT_ONLY",
       "Value": 795
     },
     {
+      "Name": "INPUT_HUD_QUICK_SELECT_STICK_DOWN",
+      "Value": 796
+    },
+    {
       "Name": "INPUT_PHOTO_MODE_MOVE_UD",
       "Value": 796
+    },
+    {
+      "Name": "INPUT_MINIGAME_ACTION",
+      "Value": 797
     },
     {
       "Name": "INPUT_PHOTO_MODE_MOVE_UP_ONLY",
@@ -9285,8 +10167,16 @@
       "Value": 798
     },
     {
+      "Name": "INPUT_HUD_QUICK_SELECT_AUDIO_UP",
+      "Value": 799
+    },
+    {
       "Name": "INPUT_PHOTO_MODE_RESET",
       "Value": 799
+    },
+    {
+      "Name": "INPUT_HUD_QUICK_SELECT_AUDIO_DOWN",
+      "Value": 800
     },
     {
       "Name": "INPUT_PHOTO_MODE_LENSE_NEXT",
@@ -9385,6 +10275,10 @@
       "Value": 823
     },
     {
+      "Name": "INPUT_HUD_QUICK_SELECT_TOGGLE_STATS_ALT",
+      "Value": 824
+    },
+    {
       "Name": "INPUT_PHOTO_MODE_EXPOSURE_LOCK",
       "Value": 824
     },
@@ -9397,8 +10291,16 @@
       "Value": 826
     },
     {
+      "Name": "INPUT_HUD_QUICK_SELECT_AUDIO_VOLUME_CYCLE",
+      "Value": 827
+    },
+    {
       "Name": "INPUT_PHOTO_MODE_CONTRAST_DOWN_ONLY",
       "Value": 827
+    },
+    {
+      "Name": "INPUT_HUD_QUICK_SELECT_AUDIO_SELECTION_PREV",
+      "Value": 828
     },
     {
       "Name": "INPUT_WEAPON_INSPECT_ZOOM",
@@ -9407,6 +10309,46 @@
     {
       "Name": "INPUT_FRONTEND_KEYMAPPING_CANCEL",
       "Value": 829
+    },
+    {
+      "Name": "INPUT_HUD_QUICK_SELECT_AUDIO_SELECTION_NEXT",
+      "Value": 829
+    },
+    {
+      "Name": "ACTION_INTERACT",
+      "Value": 830
+    },
+    {
+      "Name": "INPUT_RACE_RESPAWN",
+      "Value": 830
+    },
+    {
+      "Name": "INPUT_RACE_QUIT",
+      "Value": 831
+    },
+    {
+      "Name": "ACTION_INTERACT_HOLD",
+      "Value": 832
+    },
+    {
+      "Name": "ACTION_CAMERA_ZOOM",
+      "Value": 837
+    },
+    {
+      "Name": "ACTION_INTERACT_AIM",
+      "Value": 843
+    },
+    {
+      "Name": "ACTION_ITEM_INTERACTION",
+      "Value": 845
+    },
+    {
+      "Name": "INPUT_HUD_QUICK_SELECT_AUDIO_TRACK_SKIP",
+      "Value": 847
+    },
+    {
+      "Name": "INPUT_HUD_QUICK_SELECT_AUDIO_TRACK_REVERSE",
+      "Value": 848
     },
     {
       "Name": "INPUT_SCRIPT_LEFT_AXIS_X",
@@ -9509,12 +10451,64 @@
       "Value": 872
     },
     {
+      "Name": "INPUT_DIVE_ASCEND",
+      "Value": 877
+    },
+    {
+      "Name": "INPUT_DIVE_DESCEND",
+      "Value": 878
+    },
+    {
+      "Name": "INPUT_DANCE",
+      "Value": 879
+    },
+    {
+      "Name": "drequan_enter_security3",
+      "Value": 896
+    },
+    {
+      "Name": "INPUT_VEHICLE_RESET",
+      "Value": 919
+    },
+    {
       "Name": "INPUT_DEPRECATED_ABOVE",
       "Value": 927
     },
     {
       "Name": "INPUT_COUNT",
       "Value": 928
+    }
+  ],
+  "rage__LayoutParams__eContentMode": [
+    {
+      "Name": "CONTENT_MODE_RAW",
+      "Value": 0
+    },
+    {
+      "Name": "CONTENT_MODE_AUTO",
+      "Value": 1
+    },
+    {
+      "Name": "CONTENT_MODE_INVALID",
+      "Value": 2
+    }
+  ],
+  "rage__LayoutParams__eFlowDirection": [
+    {
+      "Name": "FLOW_DIRECTION_DEFAULT",
+      "Value": 1
+    },
+    {
+      "Name": "FLOW_DIRECTION_RTL",
+      "Value": 2
+    },
+    {
+      "Name": "FLOW_DIRECTION_INVALID",
+      "Value": 3
+    },
+    {
+      "Name": "FLOW_DIRECTION_MAX",
+      "Value": 3
     }
   ],
   "rage__eGridSizingType": [
@@ -9601,8 +10595,20 @@
       "Value": 38
     },
     {
+      "Name": "VEH_SUSPENSION_LF",
+      "Value": 38
+    },
+    {
       "Name": "BIKE_FORKS_L",
       "Value": 39
+    },
+    {
+      "Name": "VEH_SUSPENSION_RF",
+      "Value": 39
+    },
+    {
+      "Name": "VEH_SUSPENSION_LR",
+      "Value": 42
     },
     {
       "Name": "VEH_SUSPENSION_RR",
@@ -9637,11 +10643,19 @@
       "Value": 60
     },
     {
+      "Name": "VEH_SUSPENSION_LF",
+      "Value": 60
+    },
+    {
       "Name": "VEH_WINDSCREEN_R",
       "Value": 60
     },
     {
       "Name": "BIKE_FORKS_L",
+      "Value": 61
+    },
+    {
+      "Name": "VEH_SUSPENSION_RF",
       "Value": 61
     },
     {
@@ -9655,6 +10669,10 @@
     {
       "Name": "VEH_WINDOW_LR",
       "Value": 63
+    },
+    {
+      "Name": "VEH_SUSPENSION_LR",
+      "Value": 64
     },
     {
       "Name": "VEH_WINDOW_RR",
@@ -10077,6 +11095,10 @@
       "Value": 242
     },
     {
+      "Name": "VEH_FORKS_ATTACH",
+      "Value": 243
+    },
+    {
       "Name": "VEH_HANDLER_FRAME_1",
       "Value": 244
     },
@@ -10162,6 +11184,10 @@
     },
     {
       "Name": "VEH_ARM3",
+      "Value": 272
+    },
+    {
+      "Name": "VEH_FORKS_ATTACH",
       "Value": 272
     },
     {
@@ -10389,6 +11415,10 @@
       "Value": 317
     },
     {
+      "Name": "VEH_LAST_MISC",
+      "Value": 318
+    },
+    {
       "Name": "VEH_MISC_2",
       "Value": 318
     },
@@ -10481,20 +11511,40 @@
       "Value": 329
     },
     {
+      "Name": "VEH_EXTRA_12",
+      "Value": 330
+    },
+    {
       "Name": "VEH_MISC_K",
       "Value": 330
+    },
+    {
+      "Name": "VEH_EXTRA_13",
+      "Value": 331
     },
     {
       "Name": "VEH_MISC_L",
       "Value": 331
     },
     {
+      "Name": "VEH_EXTRA_14",
+      "Value": 332
+    },
+    {
       "Name": "VEH_MISC_M",
       "Value": 332
     },
     {
+      "Name": "VEH_EXTRA_15",
+      "Value": 333
+    },
+    {
       "Name": "VEH_MISC_N",
       "Value": 333
+    },
+    {
+      "Name": "VEH_EXTRA_16",
+      "Value": 334
     },
     {
       "Name": "VEH_MISC_O",
@@ -10573,6 +11623,10 @@
       "Value": 347
     },
     {
+      "Name": "VEH_LAST_MISC",
+      "Value": 347
+    },
+    {
       "Name": "VEH_MISC_2",
       "Value": 347
     },
@@ -10641,8 +11695,40 @@
       "Value": 358
     },
     {
+      "Name": "VEH_EXTRA_12",
+      "Value": 359
+    },
+    {
+      "Name": "VEH_EXTRA_13",
+      "Value": 360
+    },
+    {
+      "Name": "VEH_EXTRA_14",
+      "Value": 361
+    },
+    {
+      "Name": "VEH_EXTRA_15",
+      "Value": 362
+    },
+    {
+      "Name": "VEH_SPRING_RF",
+      "Value": 362
+    },
+    {
+      "Name": "VEH_EXTRA_16",
+      "Value": 363
+    },
+    {
+      "Name": "VEH_SPRING_LF",
+      "Value": 363
+    },
+    {
       "Name": "VEH_SPRING_RR",
       "Value": 364
+    },
+    {
+      "Name": "VEH_SPRING_LR",
+      "Value": 365
     },
     {
       "Name": "VEH_INTERIOR",
@@ -10773,12 +11859,24 @@
       "Value": 391
     },
     {
+      "Name": "VEH_SPRING_RF",
+      "Value": 391
+    },
+    {
       "Name": "PLANE_AFTERBURNER",
+      "Value": 392
+    },
+    {
+      "Name": "VEH_SPRING_LF",
       "Value": 392
     },
     {
       "Name": "VEH_SPRING_RR",
       "Value": 393
+    },
+    {
+      "Name": "VEH_SPRING_LR",
+      "Value": 394
     },
     {
       "Name": "PLANE_WING_RL",
@@ -11053,6 +12151,10 @@
       "Value": 495
     },
     {
+      "Name": "DRAFTVEH_PED_BLOCKER",
+      "Value": 525
+    },
+    {
       "Name": "BALLOON_DUMMY_NODE",
       "Value": 527
     },
@@ -11087,6 +12189,10 @@
     {
       "Name": "SUB_RUDDER",
       "Value": 553
+    },
+    {
+      "Name": "DRAFTVEH_PED_BLOCKER",
+      "Value": 554
     },
     {
       "Name": "BALLOON_DUMMY_NODE",
@@ -11469,6 +12575,12 @@
     {
       "Name": "EASE_elastic_EIEO",
       "Value": 24
+    }
+  ],
+  "rage__fwuiGradientParameters__GradientType": [
+    {
+      "Name": "Linear",
+      "Value": 0
     }
   ],
   "rage__fwuiPercentValueConversion__ePrecision": [
