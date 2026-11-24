@@ -1,0 +1,955 @@
+[
+  {
+    "Name": "BarnDoor",
+    "Hash": 155070303,
+    "HexHash": "0x093E2F5F",
+    "Tuning": {
+      "AutoOpens": false,
+      "StartsLocked": false,
+      "CanBreak": false,
+      "DoorTargetRatio": 0,
+      "AutoOpenVolumeOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "LatchOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "LatchRadius": 0.2,
+      "Flags": [],
+      "AutoOpenRadiusModifier": 1.2,
+      "UseAutoOpenTriggerBox": false,
+      "CustomTriggerBox": false,
+      "TriggerBoxMinMax": {
+        "Min": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "Max": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        }
+      },
+      "BreakableByVehicle": false,
+      "BreakingImpulse": 0,
+      "MassMultiplier": 1,
+      "MassOverride": 425,
+      "WeaponImpulseMultiplier": 1
+    }
+  },
+  {
+    "Name": "DefaultBarrierArm",
+    "Hash": 2660904699,
+    "HexHash": "0x9E9A2EFB",
+    "Tuning": {
+      "AutoOpens": false,
+      "StartsLocked": false,
+      "CanBreak": false,
+      "DoorTargetRatio": 0,
+      "AutoOpenVolumeOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "LatchOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "LatchRadius": 0.2,
+      "Flags": [],
+      "AutoOpenRadiusModifier": 1,
+      "UseAutoOpenTriggerBox": false,
+      "CustomTriggerBox": false,
+      "TriggerBoxMinMax": {
+        "Min": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "Max": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        }
+      },
+      "BreakableByVehicle": false,
+      "BreakingImpulse": 0,
+      "MassMultiplier": 1,
+      "MassOverride": 0,
+      "WeaponImpulseMultiplier": 1
+    }
+  },
+  {
+    "Name": "DefaultGarage",
+    "Hash": 208170002,
+    "HexHash": "0x0C686C12",
+    "Tuning": {
+      "AutoOpens": false,
+      "StartsLocked": false,
+      "CanBreak": false,
+      "DoorTargetRatio": 0,
+      "AutoOpenVolumeOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "LatchOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "LatchRadius": 0.2,
+      "Flags": [],
+      "AutoOpenRadiusModifier": 1,
+      "UseAutoOpenTriggerBox": false,
+      "CustomTriggerBox": false,
+      "TriggerBoxMinMax": {
+        "Min": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "Max": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        }
+      },
+      "BreakableByVehicle": false,
+      "BreakingImpulse": 0,
+      "MassMultiplier": 1,
+      "MassOverride": 0,
+      "WeaponImpulseMultiplier": 1
+    }
+  },
+  {
+    "Name": "DefaultHatch",
+    "Hash": 390089302,
+    "HexHash": "0x17404A56",
+    "Tuning": {
+      "AutoOpens": false,
+      "StartsLocked": false,
+      "CanBreak": false,
+      "DoorTargetRatio": 0,
+      "AutoOpenVolumeOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "LatchOffset": {
+        "X": 1.1,
+        "Y": 0,
+        "Z": 1
+      },
+      "LatchRadius": 0.2,
+      "Flags": [],
+      "AutoOpenRadiusModifier": 1,
+      "UseAutoOpenTriggerBox": false,
+      "CustomTriggerBox": false,
+      "TriggerBoxMinMax": {
+        "Min": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "Max": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        }
+      },
+      "BreakableByVehicle": false,
+      "BreakingImpulse": 0,
+      "MassMultiplier": 1,
+      "MassOverride": 0,
+      "WeaponImpulseMultiplier": 1
+    }
+  },
+  {
+    "Name": "DefaultSlidingHorizontal",
+    "Hash": 2505073734,
+    "HexHash": "0x95506446",
+    "Tuning": {
+      "AutoOpens": false,
+      "StartsLocked": false,
+      "CanBreak": false,
+      "DoorTargetRatio": 0,
+      "AutoOpenVolumeOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "LatchOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "LatchRadius": 0.2,
+      "Flags": [],
+      "AutoOpenRadiusModifier": 1,
+      "UseAutoOpenTriggerBox": false,
+      "CustomTriggerBox": false,
+      "TriggerBoxMinMax": {
+        "Min": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "Max": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        }
+      },
+      "BreakableByVehicle": false,
+      "BreakingImpulse": 0,
+      "MassMultiplier": 1,
+      "MassOverride": 0,
+      "WeaponImpulseMultiplier": 1
+    }
+  },
+  {
+    "Name": "DefaultSlidingVertical",
+    "Hash": 1724993491,
+    "HexHash": "0x66D14FD3",
+    "Tuning": {
+      "AutoOpens": false,
+      "StartsLocked": false,
+      "CanBreak": false,
+      "DoorTargetRatio": 0,
+      "AutoOpenVolumeOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "LatchOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "LatchRadius": 0.2,
+      "Flags": [],
+      "AutoOpenRadiusModifier": 1,
+      "UseAutoOpenTriggerBox": false,
+      "CustomTriggerBox": false,
+      "TriggerBoxMinMax": {
+        "Min": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "Max": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        }
+      },
+      "BreakableByVehicle": false,
+      "BreakingImpulse": 0,
+      "MassMultiplier": 1,
+      "MassOverride": 0,
+      "WeaponImpulseMultiplier": 1
+    }
+  },
+  {
+    "Name": "DefaultStandard",
+    "Hash": 4012382794,
+    "HexHash": "0xEF281A4A",
+    "Tuning": {
+      "AutoOpens": false,
+      "StartsLocked": false,
+      "CanBreak": false,
+      "DoorTargetRatio": 0,
+      "AutoOpenVolumeOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "LatchOffset": {
+        "X": 1.1,
+        "Y": 0,
+        "Z": 1
+      },
+      "LatchRadius": 0.2,
+      "Flags": [
+        "AutoGensTintEffect"
+      ],
+      "AutoOpenRadiusModifier": 1,
+      "UseAutoOpenTriggerBox": false,
+      "CustomTriggerBox": false,
+      "TriggerBoxMinMax": {
+        "Min": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "Max": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        }
+      },
+      "BreakableByVehicle": false,
+      "BreakingImpulse": 0,
+      "MassMultiplier": 1,
+      "MassOverride": 0,
+      "WeaponImpulseMultiplier": 1
+    }
+  },
+  {
+    "Name": "DefaultStandardCylindrical",
+    "Hash": 3788839142,
+    "HexHash": "0xE1D518E6",
+    "Tuning": {
+      "AutoOpens": false,
+      "StartsLocked": false,
+      "CanBreak": false,
+      "DoorTargetRatio": 0,
+      "AutoOpenVolumeOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "LatchOffset": {
+        "X": 1.1,
+        "Y": 0,
+        "Z": 1
+      },
+      "LatchRadius": 0.2,
+      "Flags": [
+        "AutoGensTintEffect"
+      ],
+      "AutoOpenRadiusModifier": 1,
+      "UseAutoOpenTriggerBox": false,
+      "CustomTriggerBox": false,
+      "TriggerBoxMinMax": {
+        "Min": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "Max": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        }
+      },
+      "BreakableByVehicle": false,
+      "BreakingImpulse": 0,
+      "MassMultiplier": 1,
+      "MassOverride": 0,
+      "WeaponImpulseMultiplier": 1
+    }
+  },
+  {
+    "Name": "Door_INT101_L",
+    "Hash": 670693921,
+    "HexHash": "0x27F9FA21",
+    "Tuning": {
+      "AutoOpens": false,
+      "StartsLocked": false,
+      "CanBreak": false,
+      "DoorTargetRatio": 0,
+      "AutoOpenVolumeOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "LatchOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "LatchRadius": 0.2,
+      "Flags": [],
+      "AutoOpenRadiusModifier": 1,
+      "UseAutoOpenTriggerBox": false,
+      "CustomTriggerBox": false,
+      "TriggerBoxMinMax": {
+        "Min": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "Max": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        }
+      },
+      "BreakableByVehicle": false,
+      "BreakingImpulse": 0,
+      "MassMultiplier": 1,
+      "MassOverride": 0,
+      "WeaponImpulseMultiplier": 1
+    }
+  },
+  {
+    "Name": "Door_INT101_R",
+    "Hash": 1971918134,
+    "HexHash": "0x75891536",
+    "Tuning": {
+      "AutoOpens": false,
+      "StartsLocked": false,
+      "CanBreak": false,
+      "DoorTargetRatio": 0,
+      "AutoOpenVolumeOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "LatchOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "LatchRadius": 0.2,
+      "Flags": [],
+      "AutoOpenRadiusModifier": 1,
+      "UseAutoOpenTriggerBox": false,
+      "CustomTriggerBox": false,
+      "TriggerBoxMinMax": {
+        "Min": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "Max": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        }
+      },
+      "BreakableByVehicle": false,
+      "BreakingImpulse": 0,
+      "MassMultiplier": 1,
+      "MassOverride": 0,
+      "WeaponImpulseMultiplier": 1
+    }
+  },
+  {
+    "Name": "HeavyWoodDoor",
+    "Hash": 3610389858,
+    "HexHash": "0xD7322D62",
+    "Tuning": {
+      "AutoOpens": false,
+      "StartsLocked": false,
+      "CanBreak": false,
+      "DoorTargetRatio": 0,
+      "AutoOpenVolumeOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "LatchOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "LatchRadius": 0.2,
+      "Flags": [],
+      "AutoOpenRadiusModifier": 1.2,
+      "UseAutoOpenTriggerBox": false,
+      "CustomTriggerBox": false,
+      "TriggerBoxMinMax": {
+        "Min": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "Max": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        }
+      },
+      "BreakableByVehicle": false,
+      "BreakingImpulse": 0,
+      "MassMultiplier": 15,
+      "MassOverride": 0,
+      "WeaponImpulseMultiplier": 1
+    }
+  },
+  {
+    "Name": "LargeGate",
+    "Hash": 2422775789,
+    "HexHash": "0x90689FED",
+    "Tuning": {
+      "AutoOpens": false,
+      "StartsLocked": false,
+      "CanBreak": false,
+      "DoorTargetRatio": 0,
+      "AutoOpenVolumeOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "LatchOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "LatchRadius": 0.2,
+      "Flags": [],
+      "AutoOpenRadiusModifier": 1.2,
+      "UseAutoOpenTriggerBox": false,
+      "CustomTriggerBox": false,
+      "TriggerBoxMinMax": {
+        "Min": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "Max": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        }
+      },
+      "BreakableByVehicle": false,
+      "BreakingImpulse": 0,
+      "MassMultiplier": 1,
+      "MassOverride": 200,
+      "WeaponImpulseMultiplier": 1
+    }
+  },
+  {
+    "Name": "Mint_door_46a_1M_XX_L",
+    "Hash": 415319585,
+    "HexHash": "0x18C14621",
+    "Tuning": {
+      "AutoOpens": false,
+      "StartsLocked": false,
+      "CanBreak": false,
+      "DoorTargetRatio": 0,
+      "AutoOpenVolumeOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "LatchOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "LatchRadius": 0.2,
+      "Flags": [],
+      "AutoOpenRadiusModifier": 1,
+      "UseAutoOpenTriggerBox": false,
+      "CustomTriggerBox": false,
+      "TriggerBoxMinMax": {
+        "Min": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "Max": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        }
+      },
+      "BreakableByVehicle": false,
+      "BreakingImpulse": 0,
+      "MassMultiplier": 1,
+      "MassOverride": 0,
+      "WeaponImpulseMultiplier": 1
+    }
+  },
+  {
+    "Name": "Mint_door_46a_1M_XX_R",
+    "Hash": 2475539380,
+    "HexHash": "0x938DBBB4",
+    "Tuning": {
+      "AutoOpens": false,
+      "StartsLocked": false,
+      "CanBreak": false,
+      "DoorTargetRatio": 0,
+      "AutoOpenVolumeOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "LatchOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "LatchRadius": 0.2,
+      "Flags": [],
+      "AutoOpenRadiusModifier": 1,
+      "UseAutoOpenTriggerBox": false,
+      "CustomTriggerBox": false,
+      "TriggerBoxMinMax": {
+        "Min": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "Max": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        }
+      },
+      "BreakableByVehicle": false,
+      "BreakingImpulse": 0,
+      "MassMultiplier": 1,
+      "MassOverride": 0,
+      "WeaponImpulseMultiplier": 1
+    }
+  },
+  {
+    "Name": "MInt_Door_Sliding_01a",
+    "Hash": 2938122206,
+    "HexHash": "0xAF202FDE",
+    "Tuning": {
+      "AutoOpens": false,
+      "StartsLocked": false,
+      "CanBreak": false,
+      "DoorTargetRatio": 0,
+      "AutoOpenVolumeOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "LatchOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "LatchRadius": 0.2,
+      "Flags": [],
+      "AutoOpenRadiusModifier": 1,
+      "UseAutoOpenTriggerBox": false,
+      "CustomTriggerBox": false,
+      "TriggerBoxMinMax": {
+        "Min": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "Max": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        }
+      },
+      "BreakableByVehicle": false,
+      "BreakingImpulse": 0,
+      "MassMultiplier": 1,
+      "MassOverride": 0,
+      "WeaponImpulseMultiplier": 1
+    }
+  },
+  {
+    "Name": "Prop_Am_Door_Com_Sliding_01a",
+    "Hash": 882741150,
+    "HexHash": "0x349D8F9E",
+    "Tuning": {
+      "AutoOpens": false,
+      "StartsLocked": false,
+      "CanBreak": false,
+      "DoorTargetRatio": 0,
+      "AutoOpenVolumeOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "LatchOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "LatchRadius": 0.2,
+      "Flags": [],
+      "AutoOpenRadiusModifier": 1,
+      "UseAutoOpenTriggerBox": false,
+      "CustomTriggerBox": false,
+      "TriggerBoxMinMax": {
+        "Min": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "Max": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        }
+      },
+      "BreakableByVehicle": false,
+      "BreakingImpulse": 0,
+      "MassMultiplier": 1,
+      "MassOverride": 0,
+      "WeaponImpulseMultiplier": 1
+    }
+  },
+  {
+    "Name": "Prop_Am_Door_SlidingC_01a",
+    "Hash": 3356585939,
+    "HexHash": "0xC8116FD3",
+    "Tuning": {
+      "AutoOpens": false,
+      "StartsLocked": false,
+      "CanBreak": false,
+      "DoorTargetRatio": 0,
+      "AutoOpenVolumeOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "LatchOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "LatchRadius": 0.2,
+      "Flags": [],
+      "AutoOpenRadiusModifier": 1,
+      "UseAutoOpenTriggerBox": false,
+      "CustomTriggerBox": false,
+      "TriggerBoxMinMax": {
+        "Min": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "Max": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        }
+      },
+      "BreakableByVehicle": false,
+      "BreakingImpulse": 0,
+      "MassMultiplier": 1,
+      "MassOverride": 0,
+      "WeaponImpulseMultiplier": 1
+    }
+  },
+  {
+    "Name": "Prop_Am_Door_Turnstile_01a",
+    "Hash": 3581600687,
+    "HexHash": "0xD57AE3AF",
+    "Tuning": {
+      "AutoOpens": false,
+      "StartsLocked": false,
+      "CanBreak": false,
+      "DoorTargetRatio": 0,
+      "AutoOpenVolumeOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "LatchOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "LatchRadius": 0.2,
+      "Flags": [],
+      "AutoOpenRadiusModifier": 1,
+      "UseAutoOpenTriggerBox": false,
+      "CustomTriggerBox": false,
+      "TriggerBoxMinMax": {
+        "Min": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "Max": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        }
+      },
+      "BreakableByVehicle": false,
+      "BreakingImpulse": 0,
+      "MassMultiplier": 1,
+      "MassOverride": 0,
+      "WeaponImpulseMultiplier": 1
+    }
+  },
+  {
+    "Name": "Prop_Am_Turnstile_02a_door",
+    "Hash": 3886199633,
+    "HexHash": "0xE7A2B351",
+    "Tuning": {
+      "AutoOpens": false,
+      "StartsLocked": false,
+      "CanBreak": false,
+      "DoorTargetRatio": 0,
+      "AutoOpenVolumeOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "LatchOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "LatchRadius": 0.2,
+      "Flags": [],
+      "AutoOpenRadiusModifier": 1,
+      "UseAutoOpenTriggerBox": false,
+      "CustomTriggerBox": false,
+      "TriggerBoxMinMax": {
+        "Min": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "Max": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        }
+      },
+      "BreakableByVehicle": false,
+      "BreakingImpulse": 0,
+      "MassMultiplier": 1,
+      "MassOverride": 0,
+      "WeaponImpulseMultiplier": 1
+    }
+  },
+  {
+    "Name": "SaloonDoor",
+    "Hash": 565818558,
+    "HexHash": "0x21B9B4BE",
+    "Tuning": {
+      "AutoOpens": false,
+      "StartsLocked": false,
+      "CanBreak": false,
+      "DoorTargetRatio": 0,
+      "AutoOpenVolumeOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "LatchOffset": {
+        "X": 1.1,
+        "Y": 0,
+        "Z": 1
+      },
+      "LatchRadius": 0.2,
+      "Flags": [
+        "AutoGensTintEffect"
+      ],
+      "AutoOpenRadiusModifier": 1,
+      "UseAutoOpenTriggerBox": false,
+      "CustomTriggerBox": false,
+      "TriggerBoxMinMax": {
+        "Min": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "Max": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        }
+      },
+      "BreakableByVehicle": false,
+      "BreakingImpulse": 0,
+      "MassMultiplier": 1,
+      "MassOverride": 0,
+      "WeaponImpulseMultiplier": 1
+    }
+  },
+  {
+    "Name": "StableDoor",
+    "Hash": 1474579738,
+    "HexHash": "0x57E44D1A",
+    "Tuning": {
+      "AutoOpens": false,
+      "StartsLocked": false,
+      "CanBreak": false,
+      "DoorTargetRatio": 0,
+      "AutoOpenVolumeOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "LatchOffset": {
+        "X": 1.1,
+        "Y": 0,
+        "Z": 1
+      },
+      "LatchRadius": 0.2,
+      "Flags": [
+        "AutoGensTintEffect"
+      ],
+      "AutoOpenRadiusModifier": 1,
+      "UseAutoOpenTriggerBox": false,
+      "CustomTriggerBox": false,
+      "TriggerBoxMinMax": {
+        "Min": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "Max": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        }
+      },
+      "BreakableByVehicle": false,
+      "BreakingImpulse": 0,
+      "MassMultiplier": 1,
+      "MassOverride": 0,
+      "WeaponImpulseMultiplier": 1
+    }
+  }
+]

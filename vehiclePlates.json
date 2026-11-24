@@ -1,0 +1,310 @@
+[
+  {
+    "Name": null,
+    "Hash": 65828759,
+    "HexHash": "0x03EC7797",
+    "FontExtents": {
+      "X": 0.073,
+      "Y": 0.288,
+      "Z": 0.927,
+      "W": 0.696
+    },
+    "MaxLettersOnPlate": {
+      "X": 8,
+      "Y": 1
+    },
+    "FontColor": "#FF030D03",
+    "FontOutlineColor": "#00FFFFFF",
+    "IsFontOutlineEnabled": false,
+    "FontOutlineMinMaxDepth": {
+      "X": 0,
+      "Y": 0
+    }
+  },
+  {
+    "Name": null,
+    "Hash": 424075733,
+    "HexHash": "0x1946E1D5",
+    "FontExtents": {
+      "X": 0.073,
+      "Y": 0.385,
+      "Z": 0.927,
+      "W": 0.84
+    },
+    "MaxLettersOnPlate": {
+      "X": 8,
+      "Y": 1
+    },
+    "FontColor": "#FFF0F0F0",
+    "FontOutlineColor": "#00FFFFFF",
+    "IsFontOutlineEnabled": false,
+    "FontOutlineMinMaxDepth": {
+      "X": 0,
+      "Y": 0
+    }
+  },
+  {
+    "Name": null,
+    "Hash": 1045169635,
+    "HexHash": "0x3E4C05E3",
+    "FontExtents": {
+      "X": 0.073,
+      "Y": 0.288,
+      "Z": 0.927,
+      "W": 0.696
+    },
+    "MaxLettersOnPlate": {
+      "X": 8,
+      "Y": 1
+    },
+    "FontColor": "#FFF0F0F0",
+    "FontOutlineColor": "#00FFFFFF",
+    "IsFontOutlineEnabled": false,
+    "FontOutlineMinMaxDepth": {
+      "X": 0,
+      "Y": 0
+    }
+  },
+  {
+    "Name": null,
+    "Hash": 1157910769,
+    "HexHash": "0x450450F1",
+    "FontExtents": {
+      "X": 0.073,
+      "Y": 0.288,
+      "Z": 0.927,
+      "W": 0.696
+    },
+    "MaxLettersOnPlate": {
+      "X": 8,
+      "Y": 1
+    },
+    "FontColor": "#FF9E0000",
+    "FontOutlineColor": "#00FFFFFF",
+    "IsFontOutlineEnabled": false,
+    "FontOutlineMinMaxDepth": {
+      "X": 0,
+      "Y": 0
+    }
+  },
+  {
+    "Name": null,
+    "Hash": 1977473665,
+    "HexHash": "0x75DDDA81",
+    "FontExtents": {
+      "X": 0.063,
+      "Y": 0.288,
+      "Z": 0.937,
+      "W": 0.696
+    },
+    "MaxLettersOnPlate": {
+      "X": 8,
+      "Y": 1
+    },
+    "FontColor": "#FFE7E00D",
+    "FontOutlineColor": "#FF020D02",
+    "IsFontOutlineEnabled": true,
+    "FontOutlineMinMaxDepth": {
+      "X": 0.48,
+      "Y": 0.51
+    }
+  },
+  {
+    "Name": null,
+    "Hash": 2049413555,
+    "HexHash": "0x7A2791B3",
+    "FontExtents": {
+      "X": 0.073,
+      "Y": 0.288,
+      "Z": 0.927,
+      "W": 0.696
+    },
+    "MaxLettersOnPlate": {
+      "X": 8,
+      "Y": 1
+    },
+    "FontColor": "#FFF5950F",
+    "FontOutlineColor": "#00FFFFFF",
+    "IsFontOutlineEnabled": false,
+    "FontOutlineMinMaxDepth": {
+      "X": 0,
+      "Y": 0
+    }
+  },
+  {
+    "Name": null,
+    "Hash": 2541046979,
+    "HexHash": "0x97754CC3",
+    "FontExtents": {
+      "X": 0.063,
+      "Y": 0.288,
+      "Z": 0.937,
+      "W": 0.696
+    },
+    "MaxLettersOnPlate": {
+      "X": 8,
+      "Y": 1
+    },
+    "FontColor": "#FF020D02",
+    "FontOutlineColor": "#FFE8E8E8",
+    "IsFontOutlineEnabled": true,
+    "FontOutlineMinMaxDepth": {
+      "X": 0.48,
+      "Y": 0.51
+    }
+  },
+  {
+    "Name": null,
+    "Hash": 2760471631,
+    "HexHash": "0xA489744F",
+    "FontExtents": {
+      "X": 0.063,
+      "Y": 0.288,
+      "Z": 0.937,
+      "W": 0.696
+    },
+    "MaxLettersOnPlate": {
+      "X": 8,
+      "Y": 1
+    },
+    "FontColor": "#FFF5950F",
+    "FontOutlineColor": "#FF020D02",
+    "IsFontOutlineEnabled": true,
+    "FontOutlineMinMaxDepth": {
+      "X": 0.48,
+      "Y": 0.51
+    }
+  },
+  {
+    "Name": null,
+    "Hash": 2918470121,
+    "HexHash": "0xADF451E9",
+    "FontExtents": {
+      "X": 0.063,
+      "Y": 0.288,
+      "Z": 0.937,
+      "W": 0.696
+    },
+    "MaxLettersOnPlate": {
+      "X": 8,
+      "Y": 1
+    },
+    "FontColor": "#FFB7F900",
+    "FontOutlineColor": "#FF5D5C27",
+    "IsFontOutlineEnabled": true,
+    "FontOutlineMinMaxDepth": {
+      "X": 0.457,
+      "Y": 0.5149
+    }
+  },
+  {
+    "Name": null,
+    "Hash": 3150332040,
+    "HexHash": "0xBBC64088",
+    "FontExtents": {
+      "X": 0.063,
+      "Y": 0.288,
+      "Z": 0.937,
+      "W": 0.696
+    },
+    "MaxLettersOnPlate": {
+      "X": 8,
+      "Y": 1
+    },
+    "FontColor": "#FFF0F0F0",
+    "FontOutlineColor": "#FF020D02",
+    "IsFontOutlineEnabled": true,
+    "FontOutlineMinMaxDepth": {
+      "X": 0.48,
+      "Y": 0.51
+    }
+  },
+  {
+    "Name": null,
+    "Hash": 3385711657,
+    "HexHash": "0xC9CDDC29",
+    "FontExtents": {
+      "X": 0.063,
+      "Y": 0.288,
+      "Z": 0.937,
+      "W": 0.696
+    },
+    "MaxLettersOnPlate": {
+      "X": 8,
+      "Y": 1
+    },
+    "FontColor": "#FF03060C",
+    "FontOutlineColor": "#FFE8E8E8",
+    "IsFontOutlineEnabled": true,
+    "FontOutlineMinMaxDepth": {
+      "X": 0.48,
+      "Y": 0.51
+    }
+  },
+  {
+    "Name": null,
+    "Hash": 3931396609,
+    "HexHash": "0xEA545A01",
+    "FontExtents": {
+      "X": 0.063,
+      "Y": 0.288,
+      "Z": 0.937,
+      "W": 0.696
+    },
+    "MaxLettersOnPlate": {
+      "X": 8,
+      "Y": 1
+    },
+    "FontColor": "#FFF9F500",
+    "FontOutlineColor": "#FFDD66F7",
+    "IsFontOutlineEnabled": true,
+    "FontOutlineMinMaxDepth": {
+      "X": 0.457,
+      "Y": 0.5149
+    }
+  },
+  {
+    "Name": null,
+    "Hash": 4035433895,
+    "HexHash": "0xF087D5A7",
+    "FontExtents": {
+      "X": 0.063,
+      "Y": 0.288,
+      "Z": 0.937,
+      "W": 0.696
+    },
+    "MaxLettersOnPlate": {
+      "X": 8,
+      "Y": 1
+    },
+    "FontColor": "#FFFFA8C2",
+    "FontOutlineColor": "#FF020D02",
+    "IsFontOutlineEnabled": true,
+    "FontOutlineMinMaxDepth": {
+      "X": 0.48,
+      "Y": 0.51
+    }
+  },
+  {
+    "Name": null,
+    "Hash": 4154681379,
+    "HexHash": "0xF7A36823",
+    "FontExtents": {
+      "X": 0.063,
+      "Y": 0.288,
+      "Z": 0.937,
+      "W": 0.696
+    },
+    "MaxLettersOnPlate": {
+      "X": 8,
+      "Y": 1
+    },
+    "FontColor": "#FF030D03",
+    "FontOutlineColor": "#FFE8E8E8",
+    "IsFontOutlineEnabled": true,
+    "FontOutlineMinMaxDepth": {
+      "X": 0.48,
+      "Y": 0.51
+    }
+  }
+]

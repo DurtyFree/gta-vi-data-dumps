@@ -1,0 +1,242 @@
+[
+  {
+    "Name": "cat",
+    "Hash": 1157867945,
+    "HexHash": "0x4503A9A9",
+    "PathFindRadius": 0.25,
+    "LegendaryPathFindRadius": 0,
+    "MaxClimbHeight": 1.5,
+    "MaxDropHeight": 10
+  },
+  {
+    "Name": "flightless_bird",
+    "Hash": 1567843921,
+    "HexHash": "0x5D736651",
+    "BitFlags": [],
+    "PathFindRadius": 0.25,
+    "LegendaryPathFindRadius": 0,
+    "MaxClimbHeight": 0,
+    "MaxDropHeight": 0,
+    "MaxWaterDepth": "None"
+  },
+  {
+    "Name": "flight_capable",
+    "Hash": 2347936667,
+    "HexHash": "0x8BF2AB9B",
+    "PathFindRadius": 0.25,
+    "LegendaryPathFindRadius": 0,
+    "MaxClimbHeight": 0,
+    "MaxDropHeight": 0,
+    "MaxWaterDepth": "None"
+  },
+  {
+    "Name": "horse",
+    "Hash": 2510745927,
+    "HexHash": "0x95A6F147",
+    "BitFlags": [
+      "DoesNotDrown",
+      "NeverUseCoarseMoverBounds"
+    ],
+    "PathFindRadius": 0.5,
+    "LegendaryPathFindRadius": 0,
+    "MaxClimbHeight": 0,
+    "MaxDropHeight": 0
+  },
+  {
+    "Name": "simple",
+    "Hash": 2854970267,
+    "HexHash": "0xAA2B639B",
+    "BitFlags": [],
+    "PathFindRadius": 0.25,
+    "LegendaryPathFindRadius": 0,
+    "MaxClimbHeight": 0,
+    "MaxDropHeight": 0,
+    "MaxWaterDepth": "None"
+  },
+  {
+    "Name": "snake",
+    "Hash": 1872925634,
+    "HexHash": "0x6FA293C2",
+    "BitFlags": [
+      "DoesNotDrown"
+    ],
+    "PathFindRadius": 0.25,
+    "LegendaryPathFindRadius": 0,
+    "MaxClimbHeight": 0,
+    "MaxDropHeight": 0,
+    "MaxWaterDepth": "None"
+  },
+  {
+    "Name": "standard_ped",
+    "Hash": 2703423328,
+    "HexHash": "0xA122F760",
+    "PathFindRadius": 0.25,
+    "LegendaryPathFindRadius": 0,
+    "MaxClimbHeight": 4,
+    "MaxDropHeight": 100
+  },
+  {
+    "Name": "standard_quadruped",
+    "Hash": 39282608,
+    "HexHash": "0x025767B0",
+    "BitFlags": [],
+    "PathFindRadius": 0.25,
+    "LegendaryPathFindRadius": 0,
+    "MaxClimbHeight": 0,
+    "MaxDropHeight": 0,
+    "MaxWaterDepth": "None"
+  },
+  {
+    "Name": "water_only",
+    "Hash": 836413310,
+    "HexHash": "0x31DAA77E",
+    "BitFlags": [
+      "DoesNotDrown"
+    ],
+    "PathFindRadius": 0.25,
+    "LegendaryPathFindRadius": 0,
+    "MaxClimbHeight": 0,
+    "MaxDropHeight": 0
+  },
+  {
+    "Name": null,
+    "Hash": 361558289,
+    "HexHash": "0x158CF111",
+    "BitFlags": [],
+    "PathFindRadius": 0.25,
+    "LegendaryPathFindRadius": 0,
+    "MaxClimbHeight": 4,
+    "MaxDropHeight": 100
+  },
+  {
+    "Name": null,
+    "Hash": 958773968,
+    "HexHash": "0x3925BAD0",
+    "BitFlags": [],
+    "PathFindRadius": 0.25,
+    "LegendaryPathFindRadius": 0,
+    "MaxClimbHeight": 0,
+    "MaxDropHeight": 0,
+    "MaxWaterDepth": "None"
+  },
+  {
+    "Name": null,
+    "Hash": 1280531101,
+    "HexHash": "0x4C535A9D",
+    "BitFlags": [],
+    "PathFindRadius": 0.25,
+    "LegendaryPathFindRadius": 0,
+    "MaxClimbHeight": 0,
+    "MaxDropHeight": 0
+  },
+  {
+    "Name": null,
+    "Hash": 1475804912,
+    "HexHash": "0x57F6FEF0",
+    "BitFlags": [],
+    "PathFindRadius": 0.25,
+    "LegendaryPathFindRadius": 0,
+    "MaxClimbHeight": 4,
+    "MaxDropHeight": 100
+  },
+  {
+    "Name": null,
+    "Hash": 1968036956,
+    "HexHash": "0x754DDC5C",
+    "PathFindRadius": 0.25,
+    "LegendaryPathFindRadius": 0,
+    "MaxClimbHeight": 0,
+    "MaxDropHeight": 0
+  },
+  {
+    "Name": null,
+    "Hash": 2774771208,
+    "HexHash": "0xA563A608",
+    "BitFlags": [],
+    "PathFindRadius": 0.25,
+    "LegendaryPathFindRadius": 0,
+    "MaxClimbHeight": 4,
+    "MaxDropHeight": 100
+  },
+  {
+    "Name": null,
+    "Hash": 2837991327,
+    "HexHash": "0xA9284F9F",
+    "BitFlags": [
+      "DoesNotDrown"
+    ],
+    "PathFindRadius": 1,
+    "LegendaryPathFindRadius": 0,
+    "MaxClimbHeight": 0,
+    "MaxDropHeight": 0
+  },
+  {
+    "Name": null,
+    "Hash": 2985343635,
+    "HexHash": "0xB1F0BA93",
+    "BitFlags": [],
+    "PathFindRadius": 0.25,
+    "LegendaryPathFindRadius": 0,
+    "MaxClimbHeight": 0,
+    "MaxDropHeight": 0,
+    "MaxWaterDepth": "None"
+  },
+  {
+    "Name": null,
+    "Hash": 3134754435,
+    "HexHash": "0xBAD88E83",
+    "BitFlags": [
+      "DoesNotDrown"
+    ],
+    "PathFindRadius": 0.5,
+    "LegendaryPathFindRadius": 0,
+    "MaxClimbHeight": 0,
+    "MaxDropHeight": 0
+  },
+  {
+    "Name": null,
+    "Hash": 3287761446,
+    "HexHash": "0xC3F74226",
+    "BitFlags": [
+      "DoesNotDrown"
+    ],
+    "PathFindRadius": 0.25,
+    "LegendaryPathFindRadius": 0,
+    "MaxClimbHeight": 0,
+    "MaxDropHeight": 0
+  },
+  {
+    "Name": null,
+    "Hash": 3614552430,
+    "HexHash": "0xD771B16E",
+    "BitFlags": [],
+    "PathFindRadius": 0.25,
+    "LegendaryPathFindRadius": 0,
+    "MaxClimbHeight": 0,
+    "MaxDropHeight": 0
+  },
+  {
+    "Name": null,
+    "Hash": 3668722971,
+    "HexHash": "0xDAAC451B",
+    "BitFlags": [
+      "DoesNotDrown"
+    ],
+    "PathFindRadius": 0.25,
+    "LegendaryPathFindRadius": 0,
+    "MaxClimbHeight": 0,
+    "MaxDropHeight": 0
+  },
+  {
+    "Name": null,
+    "Hash": 4077355327,
+    "HexHash": "0xF307813F",
+    "BitFlags": [
+      "DoesNotDrown"
+    ],
+    "PathFindRadius": 0.25,
+    "LegendaryPathFindRadius": 0,
+    "MaxClimbHeight": 0,
+    "MaxDropHeight": 0
+  }
+]
